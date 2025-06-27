@@ -1,7 +1,8 @@
-- 👋 Hi, I’m satya arunteja 
-- 👀 I’m interested in mechanical things and mechanisms, and automation 
-- 🌱 I’m currently learning mechantronics at NITK
-- 💞️ I’m looking to collaborate on automation projects and IOT experiments, and CAD 
-- 📫 How to reach me @ satya.arunteja3632gmail.com
-- 😄 Pronouns: me as an enthusiast in mechanical and present industry 6.0 # robotics
-- ⚡ Fun fact: I'm an artist, and sketching helps me approach my work with a stronger visual perspective.
+👋 Hi, I'm Satya Arunteja
+
+🎓 M.Tech Mechatronics student at NITK Surathkal, with a background in Mechanical Engineering  
+🔧 Passionate about automation, robotics, CAD modeling, and embedded systems  
+📡 Exploring IoT projects using ESP32, sensor integration, and real-time control systems  
+🎨 Also an artist — I use sketching as a tool to improve my design thinking  
+📬 Reach me at: satya.arunteja48@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/satya-arunteja](https://linkedin.com/in/satya-arunteja)  
