@@ -28,7 +28,7 @@ I am a final-year M.Tech Mechatronics student at NITK Surathkal, with a backgrou
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/150px-SolidWorks_Logo.svg.png" alt="solidworks" width="130" height="100"/> 
   </a>
   <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/570px-Ansys_logo_%282019%29.svg.png" alt="ansys" width="90" height="25"/> 
+    <img src="https://sphinxdocs.ansys.com/version/stable/_static/ansys_logo_transparent_white.png" alt="ansys" width="90" height="25"/> 
   </a>
 </p>
 
