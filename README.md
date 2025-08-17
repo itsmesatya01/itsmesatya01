@@ -39,7 +39,7 @@ I am a final-year M.Tech Mechatronics student at NITK Surathkal, with a backgrou
 
 ### ⭐ My Pinned Projects
 
-*(Once you create the repos, you can link them here as well)*
+
 
 | Project | Description | Technologies |
 |---|---|---|
